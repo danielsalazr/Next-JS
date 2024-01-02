@@ -1,0 +1,11 @@
+next
+    -https://nextjs.org/docs
+    -https://nextjs.org/docs/getting-started/installation
+    -https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes
+
+
+next link
+    -https://nextjs.org/docs/pages/api-reference/components/link
+
+Repositorio del curso
+    -https://github.com/jonalvarezz/platzi-nextjs
